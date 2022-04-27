@@ -1,3 +1,11 @@
+191:
+  vote: yes
+  reason: |
+    Statemine (canonical asset parachain) update proposed by core team, ok.
+190:
+  vote: yes
+  reason: |
+    This is a refund request due to lost funds because of a coding error. Good faith errors should be fixed on kusama (expect chaos)
 189:
   vote: yes
   reason: |
