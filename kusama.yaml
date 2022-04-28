@@ -1,17 +1,17 @@
 191:
-  vote: yes
+  vote: aye
   reason: |
     Statemine (canonical asset parachain) update proposed by core team, ok.
 190:
-  vote: yes
+  vote: aye
   reason: |
     This is a refund request due to lost funds because of a coding error. Good faith errors should be fixed on kusama (expect chaos)
 189:
-  vote: yes
+  vote: aye
   reason: |
     kusama runtime upgrade to 9190 from 0.9.19. comes from the core team that builds substrate and polkadot, ok
 188:
-  vote: yes
+  vote: aye
   reason: |
     open a channel between parallel finance parachain and statemine, the vanilla token chain of kusaka
     looks fine
