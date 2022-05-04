@@ -1,8 +1,12 @@
-59:
+61:
   vote: aye
   reason: |
-    unbrick phala network. phala is a renowned team in the ecosystem
+    lower establishment of HRMP channels to 10 dot. it was meant to be free according to gav and acala needs it, ok
 60:
   vote: aye
   reason: |
     statemint and runtime update by parity team (always ok)
+59:
+  vote: aye
+  reason: |
+    unbrick phala network. phala is a renowned team in the ecosystem
