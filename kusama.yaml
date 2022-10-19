@@ -1,3 +1,7 @@
+239:
+  vote: aye
+  reason: |
+    runtime upgrade, ok
 238:
   vote: nay
   reason: |
