@@ -1,3 +1,11 @@
+251:
+  vote: aye
+  reason: |
+    Zeitgeist parachain slot swap, ok
+250:
+  vote: aye
+  reason: |
+    Fixing the disappeared approved proposals (by the community) on relaychain from Genshiro and Kintsugi, ok
 249:
   vote: aye
   reason: |
