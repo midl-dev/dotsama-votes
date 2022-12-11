@@ -1,3 +1,15 @@
+93:
+  vote: nay
+  reason: |
+    Untitled propse, doesn't look legit
+92:
+  vote: aye
+  reason: |
+    Cancel the upgrade of Polkadot Runtime to v9320, ok
+91:
+  vote: aye
+  reason: |
+    Increasing Max Number of Nomination Pools, ok
 90:
   vote: aye
   reason: |
