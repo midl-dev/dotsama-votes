@@ -1,3 +1,7 @@
+100:
+  vote: aye
+  reason: |
+    enable pre commit of new parachain runtimes by core team
 99:
   vote: aye
   reason: |
