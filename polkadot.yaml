@@ -1,3 +1,7 @@
+110:
+  vote: aye
+  reason: |
+    Fix genesis registration for Manta Parachain, ok
 109:
   vote: aye
   reason: |
