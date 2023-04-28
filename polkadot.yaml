@@ -1,3 +1,7 @@
+116:
+  vote: aye
+  reason: |
+    Fix incorrectly enacted referendum caused by a Substrate bug, sounds ok
 115:
   vote: aye
   reason: |
