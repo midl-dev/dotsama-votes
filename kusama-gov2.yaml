@@ -1,3 +1,11 @@
+179:
+  vote: nay
+  reason: |
+    mobile dev libraries, only 3 stars on github, no
+178:
+  vote: nay
+  reason: |
+    solidity to ink transpiler, 11 stars 9 forks on github but 50k usd is too much, no
 177:
   vote: yay
   reason: |
