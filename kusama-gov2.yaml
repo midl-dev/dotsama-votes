@@ -1,3 +1,39 @@
+188:
+  vote: yay
+  reason: |
+    increase num parachain validators by Joe, sure
+187:
+  vote: nay
+  reason: |
+    no description
+186:
+  vote: yay
+  reason: |
+    bifrost unlocking some stuck ksm, fine
+185:
+  vote: nay
+  reason: |
+    unclear what this is, amount not shown on polkassembly
+184:
+  vote: nay
+  reason: |
+    poorly formatted tip according to polkassemly comments
+183:
+  vote: yay
+  reason: |
+    onfinality infra, fine
+182:
+  vote: yay
+  reason: |
+    substrate api client, lots of github stars, ok
+181:
+  vote: nay
+  reason: |
+    no info
+180:
+  vote: nay
+  reason: |
+    hackathon in mexico, 140k usd, too expensive
 179:
   vote: nay
   reason: |
