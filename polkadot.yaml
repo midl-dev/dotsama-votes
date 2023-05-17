@@ -1,3 +1,7 @@
+120:
+  vote: aye
+  reason: |
+    Runtime Upgrade for Collectives Parachain To v9420, ok
 119:
   vote: nay
   reason: |
