@@ -1,3 +1,11 @@
+203:
+  vote: aye
+  reason: |
+    Duplicate of 177 as it was failed to be executed, okay
+202:
+  vote: nay
+  reason: |
+    CoinStudio's audit report for Ziggurat suggests the grade is not so good, nay
 201:
   vote: nay
   reason: |
