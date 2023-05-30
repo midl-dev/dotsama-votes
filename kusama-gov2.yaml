@@ -27,19 +27,19 @@
   reason: |
     tip to unknown destination
 196:
-  vote: yay
+  vote: aye
   reason: |
     tip for external contribution to substrate, amount not visible on polkassembly but sure
 195:
-  vote: yay
+  vote: aye
   reason: |
     follow up of 188 by joe, ok
 194:
-  vote: yay
+  vote: aye
   reason: |
     paradox will second attempt at funding, monitoring and data services, ok
 193:
-  vote: yay
+  vote: aye
   reason: |
     extra 10k usd for snapshot provider due to market correction, fine
 192:
@@ -51,15 +51,15 @@
   reason: |
     Looks like a referenda spam.
 190:
-  vote: yay
+  vote: aye
   reason: |
     runtime upgrade by parity
 189:
-  vote: yay
+  vote: aye
   reason: |
     stakeworld infra, 18k usd for 3 months, fine
 188:
-  vote: yay
+  vote: aye
   reason: |
     increase num parachain validators by Joe, sure
 187:
@@ -67,7 +67,7 @@
   reason: |
     no description
 186:
-  vote: yay
+  vote: aye
   reason: |
     bifrost unlocking some stuck ksm, fine
 185:
@@ -79,11 +79,11 @@
   reason: |
     poorly formatted tip according to polkassemly comments
 183:
-  vote: yay
+  vote: aye
   reason: |
     onfinality infra, fine
 182:
-  vote: yay
+  vote: aye
   reason: |
     substrate api client, lots of github stars, ok
 181:
@@ -103,35 +103,35 @@
   reason: |
     solidity to ink transpiler, 11 stars 9 forks on github but 50k usd is too much, no
 177:
-  vote: yay
+  vote: aye
   reason: |
     coinstudio audit proposal, fine
 176:
-  vote: yay
+  vote: aye
   reason: |
     dwellir infra, $20k per quarter, ok
 175:
-  vote: yay
+  vote: aye
   reason: |
     paradox s rpc and db monitoring idea, nice but expensive, ok anyway, good proposal doc
 174:
-  vote: yay
+  vote: aye
   reason: |
     polkachu payout bot tip, small amount, ok
 173:
-  vote: yay
+  vote: aye
   reason: |
     from Olivier Tale Yazdi from parity, looks fine, technical proposal
 172:
-  vote: yay
+  vote: aye
   reason: |
     remove bifrost lock, legitimate
 171:
-  vote: yay
+  vote: aye
   reason: |
     send infrastructure bounty to treasury since it's closed
 170:
-  vote: yay
+  vote: aye
   reason: |
     final payment for parasnaps
 169:
@@ -143,7 +143,7 @@
   reason: |
     rmrk tool according to kusamint.com but rmrk has left the ecosystem
 167:
-  vote: yay
+  vote: aye
   reason: |
     administrative, no spending, from raul
 166:
@@ -151,11 +151,11 @@
   reason: |
     expensive for a list of resources and only 6 stars on github
 165:
-  vote: yay
+  vote: aye
   reason: |
     auditor tip, auditing is good, need more auditing
 164:
-  vote: yay
+  vote: aye
   reason: |
     dotreasury looks like a fine dapp
 163:
@@ -175,15 +175,15 @@
   reason: |
     testing
 159:
-  vote: yay
+  vote: aye
   reason: |
     80kusd for 6 months infra RPC spending, a lot but fine
 158:
-  vote: yay
+  vote: aye
   reason: |
     spam
 157:
-  vote: yay
+  vote: aye
     missing info on polkassembly
   reason: |
 156:
@@ -191,11 +191,11 @@
   reason: |
     missing info on polkassembly
 155:
-  vote: yay
+  vote: aye
   reason: |
     polkadotters, seems reasonable
 154:
-  vote: yay
+  vote: aye
   reason: |
     cancel 153
 153:
@@ -203,11 +203,11 @@
   reason: |
     replaced
 152:
-  vote: yay
+  vote: aye
   reason: |
     tip for goku for raising the alarm on twitter, ok
 151:
-  vote: yay
+  vote: aye
   reason: |
     remove automatic chilling for nominators, makes sense
 150:
@@ -235,7 +235,7 @@
   reason: |
     stake the treasury causes inflation, not good
 144:
-  vote: yay
+  vote: aye
   reason: |
     Maintenance bounty ok
 143:
@@ -247,7 +247,7 @@
   reason: |
     superfluous spending
 141:
-  vote: yay
+  vote: aye
   reason: |
     from interlay looks fine
 140:
@@ -255,11 +255,11 @@
   reason: |
     frothy parachain dealings
 139:
-  vote: yay
+  vote: aye
   reason: |
     tips, looks fine
 138:
-  vote: yay
+  vote: aye
   reason: |
     openbrush, ink project, looks cool, ok
 137:
