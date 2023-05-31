@@ -1,3 +1,39 @@
+212:
+  vote: yea
+  reason: |
+    proof of personhood work, common good parachain, ok
+211:
+  vote: nay
+  reason: |
+    educational content for geographic area, wrong extrinsic
+210:
+  vote: nay
+  reason: |
+    proposer asks to reject
+209:
+  vote: nay
+  reason: |
+    paraspell asks 25kusd but only 3 stars on github, no
+208:
+  vote: nay
+  reason: |
+    wrong prop
+207:
+  vote: aye
+  reason: |
+    tip ok
+206:
+  vote: nay
+  reason: |
+    wrong proposal for tip
+205:
+  vote: nay
+  reason: |
+    wrong proposal for tip
+204:
+  vote: nay
+  reason: |
+    Integritee privacy work, too expensive
 203:
   vote: aye
   reason: |
