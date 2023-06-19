@@ -1,3 +1,19 @@
+17:
+  vote: aye
+  reason: |
+    privacy sidechains, ok
+16:
+  vote: nay
+  reason: |
+    zondax spoke against this proposal, voting no
+15:
+  vote: aye
+  reason: |
+    subsquid indexing for parachains, bit expensive, fine
+14:
+  vote: aye
+  reason: |
+    hackathons in uk, ok
 13:
   vote: aye
   reason: |
