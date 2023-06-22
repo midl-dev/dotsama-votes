@@ -1,3 +1,31 @@
+24:
+  vote: aye
+  reason: |
+    ink smart contract dev, ok
+23:
+  vote: aye
+  reason: |
+    polkassemly improve identity system, fine
+22:
+  vote: nay
+  reason: |
+    genesis dao, too expensive $350k
+21:
+  vote: aye
+  reason: |
+    zondax funding for ledger apps, 1000% yes, great team
+20:
+  vote: aye
+  reason: |
+    subscan $190k, ok since it's the explorer I use all the time
+19:
+  vote: aye
+  reason: |
+    stakeworld rpc and boot node infra, $20k, ok
+18:
+  vote: aye
+  reason: |
+    runtime update for polkadot, sure
 17:
   vote: aye
   reason: |
