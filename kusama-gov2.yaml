@@ -1,3 +1,43 @@
+229:
+  vote: aye
+  reason: |
+    Reimbursement for subscan infrastructure cost, yes.
+228:
+  vote: aye
+  reason: |
+    190 KSM for Small Toolchain dev, the dashboard seems much better than the one on polkadot.js.
+227:
+  vote: nay
+  reason: |
+    Vote nay as it is not set up correctly.
+226:
+  vote: nay
+  reason: |
+    Vote nay as it is a wrong submission.
+225:
+  vote: aye
+  reason: |
+    treasury proposal of continued operation of polkawatch, yes.
+224:
+  vote: aye
+  reason: |
+    Fix Referendum 214, yes.
+223:
+  vote: aye
+  reason: |
+    payment for treasury proposal audits, yes.
+222:
+  vote: aye
+  reason: |
+    A small tip for a good substrate PR, yes.
+221:
+  vote: aye
+  reason: |
+    Upgrade the Kusama network to v9430, yes.
+220:
+  vote: nay
+  reason: |
+    KodaDot integration with RMRK2, which is outdated.
 219:
   vote: aye
   reason: |
