@@ -1,3 +1,47 @@
+50:
+  vote: nay
+  reason: |
+    Not sure how the requested 250 DOT would be spent.
+49:
+  vote: aye
+  reason: |
+    Part 2 of 2 request for 1100 DOT deposit reimbursement, ok
+48:
+  vote: aye
+  reason: |
+    Part 1 of 2 request for 1100 DOT deposit reimbursement, ok
+47:
+  vote: nay
+  reason: |
+    540K dot bounty for parachain, it is just too much...
+46:
+  vote: nay
+  reason: |
+    The idea is good, but 8K dot for that seems cost a little bit too much.
+45:
+  vote: aye
+  reason: |
+    Fund OnFinality to provide RPC API support to the ecosystem, yes
+44:
+  vote: aye
+  reason: |
+    New Product Development & OpenGov Deployment for Polkaassembly, yes
+43:
+  vote: nay
+  reason: |
+    A total treasury funding of USD$291400 for an incubator programme, not convinced
+42:
+  vote: nay
+  reason: |
+    Reject as requested
+41:
+  vote: nay
+  reason: |
+    72k dots for notifi, which seems there is an alternative exists already
+40:
+  vote: aye
+  reason: |
+    Free rpc services for the ecosystem, looks good
 39:
   vote: aye
   reason: |
