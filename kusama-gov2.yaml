@@ -1,3 +1,15 @@
+232:
+  vote: aye
+  reason: |
+    update a system parameter no_show_slot to 3, recommended by parachain core team, fine
+231:
+  vote: aye
+  reason: |
+    channel between system parachains, sure
+230:
+  vote: aye
+  reason: |
+    nomination pool number upgrade, take 2, ok
 229:
   vote: aye
   reason: |
