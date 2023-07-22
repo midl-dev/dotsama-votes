@@ -1,3 +1,95 @@
+86:
+  vote: aye
+  reason: |
+    substrate ninja videos, not too expensive, why not
+85:
+  vote: aye
+  reason: |
+    kusamarian gov debate videos, nice
+84:
+  vote: aye
+  reason: |
+    system collator changes, no treasury
+83:
+  vote: aye
+  reason: |
+    automated tip for substrate contrib
+82:
+  vote: aye
+  reason: |
+    onfinality infra
+81:
+  vote: nay
+  reason: |
+    apillon, very expensive and not convincing
+80:
+  vote: nay
+  reason: |
+    proposer asked to vote no
+79:
+  vote: aye
+  reason: |
+    automated tip for substrate contrib
+78:
+  vote: nay
+  reason: |
+    one-click parachains. expensive and the pitch is not convincing
+77:
+  vote: aye
+  reason: |
+    devlpt of smoldot, an alternative client implementation
+76:
+  vote: nay
+  reason: |
+    proposer asked to vote no
+75:
+  vote: aye
+  reason: |
+    polkashots cloud costs
+74:
+  vote: nay
+  reason: |
+    no description
+73:
+  vote: aye
+  reason: |
+    reimburse gov1 locks for proposals that were never voted on by the council, yes
+72:
+  vote: aye
+  reason: |
+    small amount for polkadot app store tip
+71:
+  vote: aye
+  reason: |
+    wasm smart contract work from known ecosystem names, ok. already voted yes before
+70:
+  vote: nay
+  reason: |
+    apple swift work, but sparse track record of solo dev
+69:
+  vote: nay
+  reason: |
+    proposer asked to vote no
+67:
+  vote: nay
+  reason: |
+    security autit of close source code, it should be open sourced first
+65:
+  vote: nay
+  reason: |
+    polkadot wink, content production, no, too expensive
+64:
+  vote: nay
+  reason: |
+    polkadot wink, content production, no, too expensive
+63:
+  vote: nay
+  reason: |
+    proposer asked to vote no
+62:
+  vote: aye
+  reason: |
+    some Ledger work from Zondax and alzymology in the metadata topic, sounds excellent
 61:
   vote: aye
   reason: |
