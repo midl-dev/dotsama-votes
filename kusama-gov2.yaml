@@ -1,3 +1,11 @@
+244:
+  vote: nay
+  reason: |
+    Maintenance for the substrate-api-client, vote nay so they can move to polkadot treasury
+243:
+  vote: yay
+  reason: |
+    discord vote bot, fine
 242:
   vote: yay
   reason: |
