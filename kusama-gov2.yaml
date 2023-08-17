@@ -1,3 +1,19 @@
+257:
+  vote: aye
+  reason: |
+    encointer runtime upgrade
+256:
+  vote: aye
+  reason: |
+    dwellir rpc, sure
+255:
+  vote: nay
+  reason: |
+    asks to ignore
+254:
+  vote: aye
+  reason: |
+    small tip
 253:
   vote: aye
   reason: |
