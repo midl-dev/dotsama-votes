@@ -1,3 +1,11 @@
+119:
+  vote: nay
+  reason: |
+    we do not need one more comm channel + too expensive
+118:
+  vote: aye
+  reason: |
+    substrate api client, 216 GH stars, only $20k, fine
 117:
   vote: nay
   reason: |
