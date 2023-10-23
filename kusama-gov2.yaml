@@ -1,3 +1,23 @@
+296:
+  vote: nay
+  reason: |
+    and more nonsense
+295:
+  vote: nay
+  reason: |
+    more nonsense
+294:
+  vote: aye
+  reason: |
+    something about parachain backing, no treasury
+293:
+  vote: nay
+  reason: |
+    nonsense
+292:
+  vote: aye
+  reason: |
+    small tip
 291:
   vote: nay
   reason: |
