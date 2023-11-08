@@ -1,3 +1,15 @@
+302:
+  vote: aye
+  reason: |
+    janitorial
+301:
+  vote: aye
+  reason: |
+    runtime upgrade
+300:
+  vote: nay
+  reason: |
+    proof of chaos, still no
 299:
   vote: nay
   reason: |
