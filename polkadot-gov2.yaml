@@ -1,3 +1,19 @@
+248:
+  vote: nay
+  reason: |
+    building an indexer, too expensive
+247:
+  vote: nay
+  reason: |
+    marketing, expensive
+246:
+  vote: aye
+  reason: |
+    cancel polkadot upgrade due to bug
+245:
+  vote: aye
+  reason: |
+    apac hackathon retroactive sure
 244:
   vote: nay
   reason: |
