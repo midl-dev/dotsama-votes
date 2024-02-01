@@ -1,3 +1,27 @@
+338:
+  vote: aye
+  reason: |
+    Deregister parachachain IDs 2086 and 2108 as they move to DOT, okay
+337:
+  vote: aye
+  reason: |
+    Onboard Brale and Glo Dollar to Kusama AssetHub v2 - inc ability to create Kusama & Polkadot branded stablecoins, aye
+336:
+  vote: aye
+  reason: |
+    Open HRMP channels between Integritee and Asset Hub, aye
+335:
+  vote: aye
+  reason: |
+    Encointer Retroactive Funding for Sep-Dec 2023, aye
+334:
+  vote: aye
+  reason: |
+    Clean up undecodable Locks and SessionKeys, aye
+333:
+  vote: aye
+  reason: |
+    Upgrade Kusama Asset Hub to Patch Release v1.1.1, aye
 332:
   vote: aye
   reason: |
