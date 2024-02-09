@@ -1,3 +1,27 @@
+344:
+  vote: aye
+  reason: |
+    XCM 5 months cost coverage, ok
+343:
+  vote: aye
+  reason: |
+    Enable beefy, ok
+342:
+  vote: nay
+  reason: |
+    Virto team - Kusama agents continuous funding, not convincing
+341:
+  vote: nay
+  reason: |
+    vote nay as requested
+340:
+  vote: nay
+  reason: |
+     Funding a Decision Deposit Sponsor, not convincing enough
+339:
+  vote: aye
+  reason: |
+    Kusama Runtime Upgrade v1.1.2
 338:
   vote: aye
   reason: |
