@@ -1,3 +1,27 @@
+350:
+  vote: aye
+  reason: |
+    Bounty Closure Proposal: n.16 and n.21, ok
+349:
+  vote: nay
+  reason: |
+    Virto 2024, not convincing
+348:
+  vote: aye
+  reason: |
+    Set `safeXcmVersion` to 3 for AssetHub, BridgeHub and Encointer, ok
+347:
+  vote: aye
+  reason: |
+    Open HRMP channel between Kreivo and AssetHub, ok
+346:
+  vote: nay
+  reason: |
+    Polkadot OpenGov Voting Observer Twitter Bot, no need
+345:
+  vote: aye
+  reason: |
+    Setting setOnDemandQueueMaxSize to 500, ok
 344:
   vote: aye
   reason: |
