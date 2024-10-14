@@ -22,6 +22,10 @@
   vote: aye
   reason: |
     dot tld, ok
+1166:
+  vote: nay
+  reason: |
+    marketing bounty, wasteful
 1165:
   vote: aye
   reason: |
